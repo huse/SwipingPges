@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/res/compiler.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/gradle.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_collection_demo.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_collection_object.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_section_dummy.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_section_launchpad.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/misc.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/modules.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/vcs.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/workspace.xml" charset="windows-1252" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
