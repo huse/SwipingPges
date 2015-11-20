@@ -62,7 +62,7 @@ public class MainActivity extends FragmentActivity implements ActionBar.TabListe
                 // When swiping between different app sections, select the corresponding tab.
                 // We can also use ActionBar.Tab#select() to do this if we have a reference to the
                 // Tab.
-                actionBar.setSelectedNavigationItem(position);
+              //  actionBar.setSelectedNavigationItem(position);
             }
         });
 
